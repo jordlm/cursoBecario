@@ -32,7 +32,7 @@ body{
     border-bottom: 3px;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
-    width: 30px;
+    width: 80px;
   }
   ol:nth-child(odd){
       background-color: antiquewhite;
