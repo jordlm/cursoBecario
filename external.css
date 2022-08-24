@@ -16,17 +16,7 @@ h1 {
     margin-top: 10px;
     cursor: pointer;
   }
-  .blue {
-    color: #0004ffcc;
-    font-size: 20px;
-    width: 200px;
-  }
-  .green {
-    color: #5eff00cc;
-    font-size: 30px;
-    width: 100px;
-    text-align: right;
-  }
+  
   .chocolate {
     color: #6d4d3b;
     font-size: 100px;
@@ -40,7 +30,6 @@ h1 {
   }
   li{
     color: #6d4d3b;
-    background-color: beige;
     border-bottom: 3px;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
