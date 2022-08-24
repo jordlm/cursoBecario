@@ -3,12 +3,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
-    color: #ff7300cc;
-    font-size: 40px;
-    text-align: center;
-
-  }
   .linkL {
     text-decoration: none;
     background-color: #55ff88cb;
@@ -38,6 +32,7 @@ h1 {
     border-bottom: 3px;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
+    width: 30px;
   }
   ol:nth-child(odd){
       background-color: antiquewhite;
