@@ -32,9 +32,8 @@ body{
     border-bottom: 3px;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
-    width: 80px;
   }
-  
+
   li:hover, li:active{
     background-color: #6d4d3b;
     color: bisque;
