@@ -4,3 +4,15 @@ body {
     background-color: #e8cae0;
     font-family: 'Roboto Slab', serif;
 }
+#header-nav{
+    background-color: #e6d554;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img{
+    background:url(cursoBecario/logo1.png) no repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px, 15px, 10px 0;
+}
