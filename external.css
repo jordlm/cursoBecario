@@ -3,7 +3,7 @@
    color:blue;
 }
 
-.row > div{
+.row>div{
     border: 4px dotted blueviolet;
     background-color: aqua;
 }
