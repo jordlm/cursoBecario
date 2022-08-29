@@ -18,3 +18,19 @@ body {
     background-size: contain;
 
 }
+.pull-left{
+    float: left;
+}
+.title{
+    padding: 25px;
+    text-shadow: 1px 1px 1px #300324;
+    text-decoration: none;
+    font-size: x-large;
+    color: #ff00bb;
+    text-decoration: dashed;
+    margin-left: 10px;
+    
+}
+.title a:hover a:focus{
+    text-decoration: none;
+}
