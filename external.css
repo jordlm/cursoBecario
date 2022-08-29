@@ -12,6 +12,7 @@ body {
 
 #logo-img{
     background:url('logo1.jpg') no-repeat;
+    background-size: 300px;
     width: 1920px;
     height: 1920px;
     margin: 10px, 5px, 5px 0;
