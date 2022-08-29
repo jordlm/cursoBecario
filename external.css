@@ -10,7 +10,7 @@ body {
     border: 0;
 }
 
-#logo-img{
+.logoImage{
     background:url('logo1.jpg') no-repeat;
-    background-size: contain;
+
 }
