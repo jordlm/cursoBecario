@@ -25,12 +25,15 @@ body {
     padding: 25px;
     text-shadow: 1px 1px 1px #300324;
     text-decoration: none;
-    font-size: x-large;
+    border-bottom: 0;
+    font-size: 60px;
     color: #ff00bb;
-    text-decoration: dashed;
-    margin-left: 10px;
-    
+    margin-left: 100px;
+;
 }
-.title a:hover a:focus{
+.title a:hover .title a:focus{
     text-decoration: none;
+}
+.p1{
+    font-size: 20px;
 }
