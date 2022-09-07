@@ -1,39 +1,15 @@
-body {
-    font-size: 16px;
-    color: #ff00bb;
-    background-color: #e8cae0;
-    font-family: 'Roboto Slab', serif;
-}
-#header-nav{
-    background-color: #e6d554;
-    border-radius: 0;
-    border: 0;
+.box {
+    background-color: #787ba5;
+    border: 2px solid #010212;
+    min-height: 60px;
+    font-size: 300px;
 }
 
 .logoImage{
-    width: 180px;
-    height: 180px;
-    padding: 5px;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
     background:url('logo1.jpg') no-repeat;
     background-size: contain;
-
-}
-.pull-left{
-    float: left;
-}
-.title{
-    padding: 25px;
-    text-shadow: 1px 1px 1px #300324;
-    text-decoration: none;
-    border-bottom: 0;
-    font-size: 60px;
-    color: #ff00bb;
-    margin-left: 100px;
-;
-}
-.title a:hover .title a:focus{
-    text-decoration: none;
-}
-.p1{
-    font-size: 20px;
+    position: absolute;
 }
